@@ -70,6 +70,7 @@ Swarf is one of a small set of separate, GPL-3.0 tools:
 
 - [Apphub](https://github.com/matthewjaybarr-png/apphub): finds, opens and updates the other apps
 - [Crib](https://github.com/matthewjaybarr-png/crib): tool book for cutting-tool lists
+- [Jig](https://github.com/matthewjaybarr-png/jig): set-up sheets for jobs on the machine
 - [Gauge](https://github.com/matthewjaybarr-png/gauge): machining calculator for speeds and feeds, drills, taps and setup math
 
 ## License
