@@ -69,6 +69,7 @@ Swarf is an editor aid, not a simulator or a verified post. Prove programs on th
 Swarf is one of a small set of separate, GPL-3.0 tools:
 
 - [Apphub](https://github.com/matthewjaybarr-png/apphub): finds, opens and updates the other apps
+- [Crib](https://github.com/matthewjaybarr-png/crib): tool book for cutting-tool lists
 - [Gauge](https://github.com/matthewjaybarr-png/gauge): machining calculator for speeds and feeds, drills, taps and setup math
 
 ## License
