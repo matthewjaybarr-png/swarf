@@ -7,7 +7,7 @@ site settings are built in: you add your own.
 ## Install
 
 ```sh
-git clone <this repo> ~/swarf
+git clone https://github.com/matthewjaybarr-png/swarf ~/swarf
 ```
 
 Then add one line to your Neovim config (`~/.config/nvim/init.lua`), or use it as the whole config:
