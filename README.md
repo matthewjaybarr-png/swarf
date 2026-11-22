@@ -64,6 +64,12 @@ sh test/install-hook.sh   # run the scan before every commit
 
 Swarf is an editor aid, not a simulator or a verified post. Prove programs on the machine.
 
+## Related apps
+
+Swarf is one of a small set of separate, GPL-3.0 tools:
+
+- [Apphub](https://github.com/matthewjaybarr-png/apphub): finds, opens and updates the other apps
+
 ## License
 
 GPL-3.0-or-later, see LICENSE. Copyright (C) 2026 the Swarf contributors.
